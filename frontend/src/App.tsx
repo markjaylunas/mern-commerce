@@ -5,7 +5,7 @@ const App: React.FC = () => {
     return (
         <>
             <Header />
-            <main className="container mx-auto ">
+            <main className="container mx-auto min-h-screen">
                 <h1>My Shop</h1>
             </main>
             <Footer />
